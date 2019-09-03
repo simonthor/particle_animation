@@ -5,3 +5,6 @@ This Python program visualizes  particles moving and interacting with each other
 ## Required packages
  - matplotlib
  - numpy
+
+## Note
+To view ipynb (iPython Notebook) files on Github's website, open the [NOTEBOOK-NAME].html in [Github's html previewer](http://htmlpreview.github.io/).
