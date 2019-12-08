@@ -1,5 +1,4 @@
 # particle_animation
-## By Simon Thor (simtho@kth.se)
 This Python program visualizes  particles moving and interacting with each other. Can both plot 3D and 2D animations.
 As long as FFMPEG is installed, the program should work on any OS, but Linux is preferred, as FFMPEG should be pre-installed.
 
